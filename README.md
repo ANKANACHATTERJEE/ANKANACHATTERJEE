@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**ANKANACHATTERJEE/ANKANACHATTERJEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ANKANACHATTERJEE/ANKANACHATTERJEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email me at ankana.chatterjee02@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Why is a dry fruit a dry fruit and not a dry vegetable?
--->
